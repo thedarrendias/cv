@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+
+h1 {
+  font-size: 70px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: 'Sacramento', cursive;
+
+}
+hr{
+  border: 1px dotted white;
+  border-top-style: none;
+  border-width: 7px;
+  width:60%;
+
+
+}
+.sol{
+  letter-spacing: 0.9px;
+  word-spacing: 2px;
+}
+.hi{
+  text-decoration: underline;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 210px;
+  top: 260px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+
+.top-container {
+  padding-top: 100px;
+  background-color: #79B4B7;
+  position: relative;
+}
+
+.middle-container {
+  background-color: #79B4B7;
+  padding-top: 20px;
+}
+
+.bottom-container {
+  background-color: #79B4B7;
+
+}
+
+.copyright{
+  font-family: 'Merriweather', serif;
+}
